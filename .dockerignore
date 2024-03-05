@@ -1,0 +1,10 @@
+learn/
+__pycache__/
+staticfiles/
+*.pyc
+.git
+.gitignore
+README.md
+Dockerfile
+docker-compose.yml
+*.log
